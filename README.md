@@ -9,6 +9,7 @@ Al ejecutar el programa aparecerá la ventana principal (Ventana de Productos). 
 
 Al desplegar la ventana se le solicitará que ingrese una distancia no mas de 10 km y no menos de 1 km. Tambien se le solicitará seleccionar un vehiculo y seleccionar los productos que se desea enviar. Aparecerá un boton para confirmar el pedido y un mensaje de confirmación. 
 ![Mensaje de confirmacion de pedido](/Capturas/Mensaje%20Agregado%20Correctamente.jpg)
+
 En caso de que el usuario ingrese un valor incorrecto aparecerá un mensaje de error.
 ![Mensaje de Error](/Capturas/Mensaje%20de%20error%20.jpg)
 
@@ -17,10 +18,12 @@ En este apartado el usuario tendrá las opciones de enviar un vehiculo, como tam
 
 Presionando el boton Enviar
 ![enviar](/Capturas/Boton%20Enviar.jpg)
+
 Se puede visualizar cómo el vehiculo seleccionado empieza su recorrido.
 
 Presionando el boton Enviar Todo. 
 ![Enviar todo](/Capturas/Enviar%20Todo%20.jpg)
+
 Se puede visualizar cómo los tres vehiculos empiezan su recorrido. La velocidad será relativa a la distancia, se tiene un mismo punto de salida, pero el tiempo para completar el recorrido sera proporcional a la distancia ingresada. 
 
 Se deberá mostrar tambien el regreso de los vehiculos. 
