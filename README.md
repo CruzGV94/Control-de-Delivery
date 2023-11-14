@@ -2,14 +2,14 @@
 Practica 2, IPC1, USAC
 
 # Manual de Usuario
-Para ejecutar el programa es necesario tener instalado un compilador de código JAVA, como recomendacion NetBeans, pero bien podria ser otro ID de su preferencia. 
+Para ejecutar el programa es necesario tener instalado un compilador de código JAVA, como recomendacion instalar "NetBeans", pero bien podria ser otro ID de su preferencia. 
 
 Al ejecutar el programa aparecerá la ventana principal (Ventana de Productos). El usuario tendrá la opcion de navegar entre ventanas presionando los botones: enviar productos e historial de productos.
 ![Imagen de Ventana Principal](/Capturas/Ventana%20Productos%20.jpg)
 
-Al desplegar la ventana se le solicitará que ingrese una distancia no mas de 10 km y no menos de 1 km. Tambien se le solicitará seleccionar un vehiculo y seleccionar los productos que se desea enviar. Aparecerá un boton para confirmar el pedido y mensaje de confirmación. 
+Al desplegar la ventana se le solicitará que ingrese una distancia no mas de 10 km y no menos de 1 km. Tambien se le solicitará seleccionar un vehiculo y seleccionar los productos que se desea enviar. Aparecerá un boton para confirmar el pedido y un mensaje de confirmación. 
 ![Mensaje de confirmacion de pedido](/Capturas/Mensaje%20Agregado%20Correctamente.jpg)
-En caso de que el usuario ingrese un valor incorrecto aparecerá mensaje de error.
+En caso de que el usuario ingrese un valor incorrecto aparecerá un mensaje de error.
 ![Mensaje de Error](/Capturas/Mensaje%20de%20error%20.jpg)
 
 ## Ventana Enviar Productos 
