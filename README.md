@@ -1,4 +1,4 @@
-# IPC1 S22023 (hilos en JAVA)
+# IPC1 Hilos en JAVA
 Practica 2, IPC1, USAC
 
 # Manual de Usuario
