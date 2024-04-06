@@ -1,4 +1,4 @@
-# IPC1 Hilos en JAVA
+# HILOS EN JAVA
 Practica 2, IPC1, USAC
 
 # Manual de Usuario
